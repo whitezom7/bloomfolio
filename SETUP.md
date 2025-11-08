@@ -48,7 +48,8 @@ const portfolioData = {
 
 ### 2. Add Your Avatar
 
-Add your profile picture as `public/avatar.png` (recommended size: 512x512px)
+Add your profile picture as `src/assets/avatar.png` (recommended size: 512x512px)
+Replace the existing avatar.png file in the folder with your own image.
 
 ### 3. Add Content
 
